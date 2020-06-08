@@ -17,7 +17,6 @@ public class MyData {
     public static BasicData sBasicData;
 
 
-
     //F1选择的文章信息类型
     public static List<SeletDatas> listSlect = new ArrayList<>();
 
